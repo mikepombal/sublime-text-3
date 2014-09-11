@@ -1,6 +1,7 @@
 {
 	"installed_packages":
 	[
+		"Emmet",
 		"Jade",
 		"Stylus",
 		"Theme - Flatland"
