@@ -2,6 +2,8 @@ Cache/
 Index/
 Installed Packages/
 Local/
+Packages/JSHint Gutter/*
+!Packages/JSHint Gutter/JSHint.sublime-settings
 Packages/PyV8/
 Packages/User/bh_unicode_properties.cache
 Packages/User/Package Control.cache/
