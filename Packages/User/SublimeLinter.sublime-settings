@@ -5,7 +5,7 @@
         "error_color": "D02000",
         "gutter_theme": "Packages/SublimeLinter/gutter-themes/Default/Default.gutter-theme",
         "gutter_theme_excludes": [],
-        "lint_mode": "load/save",
+        "lint_mode": "background",
         "linters": {
             "jscs": {
                 "@disable": false,
@@ -13,7 +13,7 @@
                 "excludes": []
             }
         },
-        "mark_style": "outline",
+        "mark_style": "fill",
         "no_column_highlights_line": false,
         "passive_warnings": false,
         "paths": {
