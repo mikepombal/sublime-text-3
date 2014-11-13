@@ -11,6 +11,8 @@
 		"Sass",
 		"SideBarEnhancements",
 		"Stylus",
+		"SublimeLinter",
+		"SublimeLinter-jscs",
 		"Theme - Flatland"
 	]
 }

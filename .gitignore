@@ -3,9 +3,12 @@ Cache/
 Index/
 Installed Packages/
 Local/
+Packages/HTML/
 Packages/JSHint Gutter/*
 !Packages/JSHint Gutter/JSHint.sublime-settings
 Packages/PyV8/
+Packages/Rails/
+Packages/SublimeLinter/
 Packages/User/bh_unicode_properties.cache
 Packages/User/Package Control.cache/
 Packages/User/Package Control.last-run

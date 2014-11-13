@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/Theme - Flatland/Flatland Monokai.tmTheme",
+	"color_scheme": "Packages/User/Flatland Monokai (SL).tmTheme",
 	"folder_exclude_patterns":
 	[
 		".svn",
@@ -12,7 +12,8 @@
 	"font_size": 18,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
+		"GitGutter"
 	],
 	"tab_size": 4,
 	"theme": "Flatland Dark.sublime-theme",
