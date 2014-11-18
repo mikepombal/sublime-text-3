@@ -1,12 +1,12 @@
 <snippet>
-    <content>
+	<content>
 <![CDATA[
 describe('${1:description}', function () {
-    $2
+	$2
 });
 ]]>
-    </content>
-    <tabTrigger>desc</tabTrigger>
-    <scope>source.js</scope>
-    <description>describe</description>
+	</content>
+	<tabTrigger>desc</tabTrigger>
+	<scope>source.js</scope>
+	<description>describe</description>
 </snippet>

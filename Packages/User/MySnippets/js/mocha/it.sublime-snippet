@@ -1,12 +1,12 @@
 <snippet>
-    <content>
+	<content>
 <![CDATA[
 it('${1:describes test}', function () {
-    $2
+	$2
 });
 ]]>
-    </content>
-    <tabTrigger>it</tabTrigger>
-    <scope>source.js</scope>
-    <description>it</description>
+	</content>
+	<tabTrigger>it</tabTrigger>
+	<scope>source.js</scope>
+	<description>it</description>
 </snippet>
